@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Base Model for the AirBnB project"""
 import uuid
 import models
